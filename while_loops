@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>While Loops</title>
+</head>
+
+<body>
+
+    <script>
+        var count = 0
+        var target = 10
+
+        while (count<target) {
+            console.log("Hey Im getting looped")
+            count++
+        }
+    </script>
+</body>
+
+</html>
