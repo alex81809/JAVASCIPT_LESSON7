@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Data Types</title>
+</head>
+
+<body>
+    
+    <script>
+        // number type 
+        var marks = 30
+
+        // string type 
+        var text = "welcome to codingal"
+
+        // boolean type (it can be true or false)
+        var student = true 
+
+        // undefined type 
+        var codingal;
+        console.log(codingal)
+
+        // null type
+        var javascript = null
+    </script>
+</body>
+
+</html>
